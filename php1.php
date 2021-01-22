@@ -1,3 +1,0 @@
-<?php
-oio
-phpinfo();
